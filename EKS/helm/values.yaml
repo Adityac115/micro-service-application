@@ -2,7 +2,7 @@
 # Default is docker/robotshop/image:latest
 image:
   repo: aditya115
-  version: latest
+  version: 58
   pullPolicy: IfNotPresent
 
 # EUM configuration
